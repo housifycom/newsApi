@@ -1,2 +1,2 @@
 # newsApi
-Access housift.co news over Rest API
+Access https://housify.co news over Rest API
